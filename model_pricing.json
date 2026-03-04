@@ -1,0 +1,15 @@
+
+{
+  "gpt-3.5": {
+    "prompt": 0.0015,
+    "completion": 0.002
+  },
+  "gpt-4": {
+    "prompt": 0.03,
+    "completion": 0.06
+  },
+  "gemini": {
+    "prompt": 0.00025,
+    "completion": 0.0005
+  }
+}
