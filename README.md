@@ -1,6 +1,8 @@
 # LLM Observability Platform  
 API-Based Usage & Cost Tracking System for LLM Applications
+
 ![image alt](https://github.com/ShreeSharma31/LLM-Observability-Platform/blob/main/pic1.jpeg?raw=true)
+![image alt](https://github.com/ShreeSharma31/LLM-Observability-Platform/blob/5016f22513eac2ebaf6863f6a998661a7d17683c/pic2.jpeg)
 ---
 
 ## Overview
