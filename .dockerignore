@@ -1,0 +1,8 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache
+llm_data.db
+logs
+.git
